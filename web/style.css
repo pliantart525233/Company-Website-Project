@@ -1,0 +1,275 @@
+
+
+body
+
+{
+
+  color:black;
+
+  /*animation: myanimation 18s infinite;*/
+
+}
+
+@keyframes myanimation {
+    0% {background-color: red;}
+    25%{background-color:yellow;}
+    50%{background-color:green;}
+    75%{background-color:brown;}
+    100% {background-color: red;}
+}
+
+
+
+.Title 
+
+{ 
+  
+    display: flex;
+
+    justify-content: space-around;
+
+    align-items: center;
+
+    font-size: 45px;
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+
+}
+
+.TableClass {
+    
+    display: flex;
+
+    justify-content: space-around;
+
+    align-items: center;
+
+    color: purple;
+
+    width: 30%;
+
+    height: 10%;    
+
+    margin: auto;
+
+}
+
+.PageTitle
+
+{ 
+
+    display: flex;
+
+    justify-content: space-around;
+
+    align-items: center;
+
+    font-size: 50px;
+
+    font-family: 'Imprint MT Shadow', 'Courier New', 'sans-serif';
+
+}
+
+#center {
+
+    justify-content: space-around;
+
+    align-items: center;
+}
+
+hr
+
+{
+
+    background-color: rgb(253, 253, 253);
+
+    height: 0px;
+
+    border: none;
+
+}
+
+.TemQueCentralizar
+
+{
+
+    display: flex;
+
+    justify-content: space-around;
+
+    align-items: center;
+
+    margin: auto;
+
+}
+
+.Category
+
+{
+
+    display: flex;
+
+    justify-content: space-around;
+
+    align-items: center;
+
+    margin: auto;
+    
+    font-family: 'cursive', 'comic-sans', 'sans-serif';
+
+    font-size: 24px;
+
+}
+
+p
+
+{
+
+    color: rgb(32, 21, 179);
+
+    font-size: 22px;
+
+    position: relative;
+
+    text-align: justify;
+
+}
+
+li
+
+{
+
+    color: black;
+
+    font-size: 20px;
+
+    position: relative;
+
+    text-align: justify;
+
+}
+
+hr
+
+{
+
+    background-color: black;
+
+    height: 2px;
+
+    border: none;
+
+}
+
+a:link
+
+{
+
+    color: black;
+
+}
+
+a:visited
+
+{
+
+    color: rgb(0, 0, 0);
+
+}
+
+a:hover
+
+{
+
+    color: goldenrod
+
+}
+
+a:active
+
+{
+
+    color: rgb(0, 0, 0)
+
+}
+
+.Images
+
+{
+
+    display: block;
+
+    width: 450px;
+
+    height: 450px;    
+
+    margin: auto;
+}
+
+#Logo
+
+{
+
+    width: 300px;
+    
+    height: 80px;
+
+}
+
+.SpecialCharacters
+
+{
+
+    font-family: 'Algerian', 'Lucida Handwriting', 'Franklin Gothic Medium', 'cursive', 'comic-sans', 'sans-serif';
+
+    font-size: 35px;
+    
+}
+
+.TableClass
+
+{
+
+    display: flex;
+
+    justify-content: space-around;
+
+    align-items: center;
+
+    padding: 10px;
+
+    width: auto;
+
+    height: auto;
+
+}
+
+.border
+
+{
+
+    width: auto;
+
+    height: auto;
+
+    border: 2px solid black;
+
+}
+
+.SpecialColor
+
+{
+
+    color: rgb(225, 0, 255);
+
+    font-size: 22px;
+
+    display: flex;
+
+    justify-content: space-around;
+
+    align-items: center;
+
+    margin: auto;
+
+}
