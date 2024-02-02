@@ -6,17 +6,17 @@ body
 
   color:black;
 
-  /*animation: myanimation 18s infinite;*/
+  animation: myanimation 18s infinite;
 
 }
 
-@keyframes myanimation {
+/*@keyframes myanimation {
     0% {background-color: red;}
     25%{background-color:yellow;}
     50%{background-color:green;}
     75%{background-color:brown;}
     100% {background-color: red;}
-}
+}*/
 
 
 

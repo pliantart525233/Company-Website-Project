@@ -11,7 +11,7 @@
   <head>
     <link rel="stylesheet" type="text/css" href="style.css" />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>Special Login Page</title>
+    <title>Administrator Login Page</title>
   </head>
   <body>
   <h1 class="PageTitle">Login Info</h1>
@@ -36,16 +36,12 @@
         <br><br>
         
         </form>
-
-    <p>If your can't log in into your account, please email jvavila2007@gmail.com</p>
         
         <br> 
 
         <form name="ToIndex" action="index.jsp" method="POST">
             
       <input type="submit" value="Go Back"/> </form>
-
-      <img src="Images/LetMeIn.png" class="Images" alt="Sorry, no image found"/> <br> <br> <br>
 
   </body>
 

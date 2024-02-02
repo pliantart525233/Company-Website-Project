@@ -45,7 +45,7 @@
 
     <br><br><br>
     
-    <h1 class="TemQueCentralizar"> Special Staff </h1>
+    <h1 class="TemQueCentralizar"> Administrators </h1>
 
     <table border ="3"
         width = "50%" class="Category" style="text-align : center; color: purple">
@@ -87,8 +87,6 @@
       <input type="submit" value="Admin Page" class="Category">
         
     </form> <br> <br>
-
-    <img src="Images/InformationEverywhere.jpg" class="Images" alt="Sorry, no image found"/>
     
   </body>
 </html>

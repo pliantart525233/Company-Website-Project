@@ -21,6 +21,5 @@
       <input type="submit" value="Admin Page">
         
     </form> <br> <br> <br> <br>
-    <img src="Images/SomethingWorked.gif" class="Images" alt="Sorry, no image found"/> <br> <br> <br>
   </body>
 </html>

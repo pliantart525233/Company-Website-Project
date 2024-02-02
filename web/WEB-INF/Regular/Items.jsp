@@ -44,8 +44,6 @@
     <form name= "AdmPage" action="NormalEmpPage" method="POST" >
         
       <input type="submit" value="Go Back" class="Category"> </form> <br><br><br>
-
-      <img src="Images/DontRemember.jpeg" class="Images" alt="Sorry, no image found"/>
     
   </body>
 </html>

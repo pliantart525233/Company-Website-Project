@@ -22,8 +22,8 @@
     
     <p class="TemQueCentralizar">Hello, and welcome to Wallow's official website for employees. If you are not am employee, please, do not attempt to login in one of our workers account</p> 
     
-    <p class="TemQueCentralizar"> Now that we (hopefully) only have an employee reading this, welcome to the team (older employees probably don't read this anyway). We are happy to have you. If you were not warned about anything that you have to do, please login in the "regular employee" button. In case you were warned, please log in in "special staff".  </p>
-    
+    <p class="TemQueCentralizar"> Now that we (hopefully) only have an employee reading this, welcome to the team (older employees probably don't read this anyway). We are happy to have you.</p>
+    <p class="TemQueCentralizar">Please login into your account.</p>
     <p class="TemQueCentralizar">WARNING: Trying to log in using your account in the wrong login option will not work</p> 
     
     <br>
@@ -36,12 +36,10 @@
     
     <form name="SLogin" action="SpecialLoginPage" method="POST">
         
-      <input type="submit" value="Login as a special staff" class="Category">
+      <input type="submit" value="Login as an administrator" class="Category">
         
     </form><br> <br>
     
-    <img src="Images/WelcomeIGuess.png" class="Images" alt="Sorry, no image found"/> <br> <br> <br>
-
     <!--
     
     <form name= "MyDB" action="dbPage" method="POST">

@@ -17,7 +17,7 @@
 
     <h1 class="PageTitle">Admin Page</h1>
     
-    <p class="TemQueCentralizar"> Hello. This is the main page for the employees that are allowd to change the company's information.
+    <p class="TemQueCentralizar"> Hello. This is the main page for the employees that are allowed to change the company's information (administrators).
   </p>
     <p class="TemQueCentralizar">If you have access to this page, you will need to make changes into the information of our company. </p>
     <p class="TemQueCentralizar"> That can be an account information, or a product information. </p>

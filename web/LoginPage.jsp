@@ -41,13 +41,9 @@
         
         </form>
 
-    <p>If your can't log in into your account, please email jvavila2007@gmail.com</p>
-
     <form name="ToIndex" action="index.jsp" method="POST">
             
       <input type="submit" value="Go Back"/> </form>
-
-      <img src="Images/LetMeIn.png" class="Images" alt="Sorry, no image found"/> <br> <br> <br>
     
   </body>
 

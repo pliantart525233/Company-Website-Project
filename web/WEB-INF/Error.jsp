@@ -15,6 +15,6 @@
     <title>Error Page</title>
   </head>
   <body>
-    <h1 class="PageTitle">What is wrong with you!</h1>
+    <h1 class="PageTitle">Error Page!</h1>
   </body>
 </html>

@@ -45,7 +45,7 @@
 
         Password: <input type="text" name="Passing Word" />
 
-        <input type="submit" value="Add Special Employee"/>
+        <input type="submit" value="Add Administrator"/>
         
         </form> <br> <hr> <br> <br> 
 
@@ -55,7 +55,6 @@
         
     </form> <br> <hr> <br> <br>
 
-    <img src="Images/NewEmp.png" class="Images" alt="Sorry, no image found"/> <br> <br> <br>
     
   </body>
   

@@ -27,7 +27,7 @@
     <h1 class="PageTitle">Employee Removal</h1>
     
     <p style="text-align: center">This is the page that you will use to remove an employee (please, only use this page if requested).</p>
-    <p style="text-align: center">Observation: It is impossible to remove an employee with special permissions using this page</p>
+    <p style="text-align: center">Observation: It is impossible to remove an employee with special permissions (administrator) using this page</p>
     
     <form name="Remove Item" action="EmployeeRemoved" method="GET" class="Category">
       

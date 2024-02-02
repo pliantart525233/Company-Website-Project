@@ -26,7 +26,6 @@
         
     </form>
 
-    <br> <br><img src="Images/Dusting.gif" class="Images" alt="Sorry, no image found"/> <br> <br> <br>
     
   </body>
 </html>
